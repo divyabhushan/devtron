@@ -65,7 +65,7 @@ Select **Update Pipeline**.
 2. Select **+ Add task**.
 3. Select **Execute custom script**.
 
-The task type of the custom script may be a [Shell](#custom-script---shell) or a [Container image](#custom-script---container-image).
+The task type of the custom script may be a Shell or a Container image.
 
 #### Custom script - Shell
 
